@@ -1,0 +1,3 @@
+MODULE main_scheme
+	SUBMODULE vga_module
+		INSTANCE XLXI_1

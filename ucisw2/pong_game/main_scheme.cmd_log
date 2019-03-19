@@ -1,0 +1,43 @@
+xst -intstyle ise -ifn "F:/ucisw2/pong_game/main_scheme.xst" -ofn "F:/ucisw2/pong_game/main_scheme.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc GenIO.ucf -p xc3s500e-fg320-4 main_scheme.ngc main_scheme.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o main_scheme_map.ncd main_scheme.ngd main_scheme.pcf 
+par -w -intstyle ise -ol high -t 1 main_scheme_map.ncd main_scheme.ncd main_scheme.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml main_scheme.twx main_scheme.ncd -o main_scheme.twr main_scheme.pcf -ucf GenIO.ucf 
+bitgen -intstyle ise -f main_scheme.ut main_scheme.ncd 
+xst -intstyle ise -ifn "F:/ucisw2/pong_game/main_scheme.xst" -ofn "F:/ucisw2/pong_game/main_scheme.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc GenIO.ucf -p xc3s500e-fg320-4 main_scheme.ngc main_scheme.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o main_scheme_map.ncd main_scheme.ngd main_scheme.pcf 
+par -w -intstyle ise -ol high -t 1 main_scheme_map.ncd main_scheme.ncd main_scheme.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml main_scheme.twx main_scheme.ncd -o main_scheme.twr main_scheme.pcf -ucf GenIO.ucf 
+bitgen -intstyle ise -f main_scheme.ut main_scheme.ncd 
+xst -intstyle ise -ifn "F:/ucisw2/pong_game/main_scheme.xst" -ofn "F:/ucisw2/pong_game/main_scheme.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc GenIO.ucf -p xc3s500e-fg320-4 main_scheme.ngc main_scheme.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o main_scheme_map.ncd main_scheme.ngd main_scheme.pcf 
+par -w -intstyle ise -ol high -t 1 main_scheme_map.ncd main_scheme.ncd main_scheme.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml main_scheme.twx main_scheme.ncd -o main_scheme.twr main_scheme.pcf -ucf GenIO.ucf 
+bitgen -intstyle ise -f main_scheme.ut main_scheme.ncd 
+xst -intstyle ise -ifn "F:/ucisw2/pong_game/main_scheme.xst" -ofn "F:/ucisw2/pong_game/main_scheme.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc GenIO.ucf -p xc3s500e-fg320-4 main_scheme.ngc main_scheme.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o main_scheme_map.ncd main_scheme.ngd main_scheme.pcf 
+par -w -intstyle ise -ol high -t 1 main_scheme_map.ncd main_scheme.ncd main_scheme.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml main_scheme.twx main_scheme.ncd -o main_scheme.twr main_scheme.pcf -ucf GenIO.ucf 
+bitgen -intstyle ise -f main_scheme.ut main_scheme.ncd 
+xst -intstyle ise -ifn "F:/ucisw2/pong_game/main_scheme.xst" -ofn "F:/ucisw2/pong_game/main_scheme.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc GenIO.ucf -p xc3s500e-fg320-4 main_scheme.ngc main_scheme.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o main_scheme_map.ncd main_scheme.ngd main_scheme.pcf 
+par -w -intstyle ise -ol high -t 1 main_scheme_map.ncd main_scheme.ncd main_scheme.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml main_scheme.twx main_scheme.ncd -o main_scheme.twr main_scheme.pcf -ucf GenIO.ucf 
+bitgen -intstyle ise -f main_scheme.ut main_scheme.ncd 
+xst -intstyle ise -ifn "F:/ucisw2/pong_game/main_scheme.xst" -ofn "F:/ucisw2/pong_game/main_scheme.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc GenIO.ucf -p xc3s500e-fg320-4 main_scheme.ngc main_scheme.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o main_scheme_map.ncd main_scheme.ngd main_scheme.pcf 
+par -w -intstyle ise -ol high -t 1 main_scheme_map.ncd main_scheme.ncd main_scheme.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml main_scheme.twx main_scheme.ncd -o main_scheme.twr main_scheme.pcf -ucf GenIO.ucf 
+bitgen -intstyle ise -f main_scheme.ut main_scheme.ncd 
+xst -intstyle ise -ifn "F:/ucisw2/pong_game/main_scheme.xst" -ofn "F:/ucisw2/pong_game/main_scheme.syr" 
+xst -intstyle ise -ifn "F:/ucisw2/pong_game/main_scheme.xst" -ofn "F:/ucisw2/pong_game/main_scheme.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc GenIO.ucf -p xc3s500e-fg320-4 main_scheme.ngc main_scheme.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o main_scheme_map.ncd main_scheme.ngd main_scheme.pcf 
+par -w -intstyle ise -ol high -t 1 main_scheme_map.ncd main_scheme.ncd main_scheme.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml main_scheme.twx main_scheme.ncd -o main_scheme.twr main_scheme.pcf -ucf GenIO.ucf 
+bitgen -intstyle ise -f main_scheme.ut main_scheme.ncd 

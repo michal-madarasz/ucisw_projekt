@@ -1,0 +1,12 @@
+[Inputs]
+CLK
+=x_cord[9:0]=
+=pilka_x[9:0]=
+=pilka_y[8:0]=
+[Outputs]
+VGA_HS
+VGA_VS
+odbicie_x
+odbicie_y
+=RGB[2:0]=
+[BiDir]

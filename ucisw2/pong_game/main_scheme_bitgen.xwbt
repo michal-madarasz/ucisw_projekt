@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=F:\ucisw2\pong_game\main_scheme.ncd
+OUTFILE=F:\ucisw2\pong_game\main_scheme.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=F:\ucisw2\pong_game
+LICENSE=ISE
+USER_INFO=174693031_177724690_210552578_727

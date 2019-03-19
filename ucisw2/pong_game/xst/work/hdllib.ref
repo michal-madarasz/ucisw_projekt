@@ -1,0 +1,4 @@
+AR main_scheme behavioral F:/ucisw2/pong_game/main_scheme.vhf sub00/vhpl03 1552999937
+AR vga_module behavioral F:/ucisw2/pong_game/vga_module.vhd sub00/vhpl01 1552999935
+EN vga_module NULL F:/ucisw2/pong_game/vga_module.vhd sub00/vhpl00 1552999934
+EN main_scheme NULL F:/ucisw2/pong_game/main_scheme.vhf sub00/vhpl02 1552999936

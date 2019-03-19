@@ -1,0 +1,4 @@
+vhdtdtfi -lib work vga_module.vhd -prj pong_game -o vga_module.spl -module vga_module -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vga_module.spl F:/ucisw2/pong_game/vga_module.sym 
+vhdtdtfi -lib work vga_module.vhd -prj pong_game -o vga_module.spl -module vga_module -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vga_module.spl F:/ucisw2/pong_game/vga_module.sym 

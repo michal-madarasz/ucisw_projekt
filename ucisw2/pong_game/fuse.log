@@ -1,0 +1,21 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o F:/ucisw2/pong_game/vga_test_isim_beh.exe -prj F:/ucisw2/pong_game/vga_test_beh.prj work.vga_test 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "F:/ucisw2/pong_game/vga_module.vhd" into library work
+Parsing VHDL file "F:/ucisw2/pong_game/vga_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 101412 KB
+Fuse CPU Usage: 374 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity vga_module [vga_module_default]
+Compiling architecture behavior of entity vga_test
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 VHDL Units
+Built simulation executable F:/ucisw2/pong_game/vga_test_isim_beh.exe
+Fuse Memory Usage: 111380 KB
+Fuse CPU Usage: 436 ms

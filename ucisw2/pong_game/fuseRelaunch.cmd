@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "F:/ucisw2/pong_game/vga_test_isim_beh.exe" -prj "F:/ucisw2/pong_game/vga_test_beh.prj" "work.vga_test" 

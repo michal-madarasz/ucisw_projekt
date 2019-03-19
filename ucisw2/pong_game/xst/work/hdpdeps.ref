@@ -1,0 +1,13 @@
+V3 8
+FL F:/ucisw2/pong_game/main_scheme.vhf 2019/03/19.12:47:22 P.20131013
+EN work/main_scheme 1552999936 FL F:/ucisw2/pong_game/main_scheme.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/main_scheme/BEHAVIORAL 1552999937 \
+      FL F:/ucisw2/pong_game/main_scheme.vhf EN work/main_scheme 1552999936 \
+      CP vga_module
+FL F:/ucisw2/pong_game/vga_module.vhd 2019/03/19.13:52:10 P.20131013
+EN work/vga_module 1552999934 FL F:/ucisw2/pong_game/vga_module.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/vga_module/Behavioral 1552999935 \
+      FL F:/ucisw2/pong_game/vga_module.vhd EN work/vga_module 1552999934
